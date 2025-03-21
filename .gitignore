@@ -1,2 +1,10 @@
 node_modules
 .env
+
+
+git init                        
+git add .                       
+git commit -m "First commit"   
+git branch -M main              
+git remote add origin https://github.com/haquerezaul/BACKENDBASIC.git
+git push -u origin main         
