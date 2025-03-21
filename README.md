@@ -1,2 +1,0 @@
-# FirstServer
-my first server
